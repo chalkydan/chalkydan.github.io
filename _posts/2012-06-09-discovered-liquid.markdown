@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Discovered Github Pages, Jekyll, Markdown and Liquid
-date: 2018-06-09T12:00:00Z
+title: I created my blog
+date: 2019-02-13T12:00:00Z
 categories: jekyll update
 ---
 
